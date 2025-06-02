@@ -28,8 +28,8 @@ range(-6,-1)
 print(list(range(-6,-1)))
 range(-6,-1,2)
 print(list(range(-6,-1,2)))
-# range(-1,-6,)
-# print(list(range(-1,-6,-2)))
+range(-1,-6,)
+print(list(range(-1,-6,-2)))
 
 
 
